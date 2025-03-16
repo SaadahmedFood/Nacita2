@@ -41,6 +41,8 @@ body {
   height: auto;
 }
 
+/* تم إزالة تنسيق زر المزامنة لأنه لم يعد مستخدماً */
+
 .column-count-box {
   margin: 20px 0;
   font-size: 15px;
@@ -142,7 +144,7 @@ button:active {
   }
   
   .container {
-    padding: 25px;
+    padding: 20px;
     width: 95%;
   }
 }
